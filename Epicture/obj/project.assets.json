@@ -27500,11 +27500,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JDavid\\source\\repos\\Epicture\\Epicture\\Epicture.csproj",
+      "projectUniqueName": "C:\\GitProject\\Epicture\\Epicture\\Epicture.csproj",
       "projectName": "Epicture",
-      "projectPath": "C:\\Users\\JDavid\\source\\repos\\Epicture\\Epicture\\Epicture.csproj",
+      "projectPath": "C:\\GitProject\\Epicture\\Epicture\\Epicture.csproj",
       "packagesPath": "C:\\Users\\JDavid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JDavid\\source\\repos\\Epicture\\Epicture\\obj\\",
+      "outputPath": "C:\\GitProject\\Epicture\\Epicture\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

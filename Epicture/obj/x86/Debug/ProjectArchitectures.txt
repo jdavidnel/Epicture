@@ -1,1 +1,1 @@
-C:\Users\JDavid\source\repos\Epicture\Epicture\Epicture.csproj;x86
+C:\GitProject\Epicture\Epicture\Epicture.csproj;x86

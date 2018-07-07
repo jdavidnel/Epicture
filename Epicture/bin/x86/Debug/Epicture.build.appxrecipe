@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>14a56a07-46d4-4de0-9226-b942f1df7108</PackageIdentityName>
     <PackageIdentityPublisher>CN=JDavid</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\JDavid\source\repos\Epicture\Epicture\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\GitProject\Epicture\Epicture\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\JDavid\source\repos\Epicture\Epicture\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\GitProject\Epicture\Epicture\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\JDavid\source\repos\Epicture\Epicture\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\GitProject\Epicture\Epicture\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\JDavid\source\repos\Epicture\Epicture\bin\x86\Debug\Epicture.exe">
+    <AppxPackagedFile Include="C:\GitProject\Epicture\Epicture\bin\x86\Debug\Epicture.exe">
       <PackagePath>entrypoint\Epicture.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -370,53 +370,53 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.xml.xmlserializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JDavid\source\repos\Epicture\Epicture\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\GitProject\Epicture\Epicture\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JDavid\source\repos\Epicture\Epicture\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\GitProject\Epicture\Epicture\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JDavid\source\repos\Epicture\Epicture\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\GitProject\Epicture\Epicture\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JDavid\source\repos\Epicture\Epicture\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\GitProject\Epicture\Epicture\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JDavid\source\repos\Epicture\Epicture\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\GitProject\Epicture\Epicture\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JDavid\source\repos\Epicture\Epicture\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\GitProject\Epicture\Epicture\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JDavid\source\repos\Epicture\Epicture\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\GitProject\Epicture\Epicture\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JDavid\source\repos\Epicture\Epicture\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\GitProject\Epicture\Epicture\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JDavid\source\repos\Epicture\Epicture\bin\x86\Debug\Epicture.xr.xml">
+    <AppxPackagedFile Include="C:\GitProject\Epicture\Epicture\bin\x86\Debug\Epicture.xr.xml">
       <PackagePath>Epicture.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JDavid\source\repos\Epicture\Epicture\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\GitProject\Epicture\Epicture\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JDavid\source\repos\Epicture\Epicture\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\GitProject\Epicture\Epicture\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JDavid\source\repos\Epicture\Epicture\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\GitProject\Epicture\Epicture\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JDavid\source\repos\Epicture\Epicture\bin\x86\Debug\Core\Epicture.exe">
+    <AppxPackagedFile Include="C:\GitProject\Epicture\Epicture\bin\x86\Debug\Core\Epicture.exe">
       <PackagePath>Epicture.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
