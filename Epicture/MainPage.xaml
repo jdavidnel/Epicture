@@ -9,7 +9,11 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <Button Content="Connection Facebook" HorizontalAlignment="Center" Margin="0,281,0,0" VerticalAlignment="Top"/>
-        <Button Content="Connection Gmail" HorizontalAlignment="Left" Margin="668,189,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Ellipse Name="LED" Fill="LightGray" Stroke="White" Height="100" Width="100" Margin="10" />
+            <TextBox Name="Login" HorizontalAlignment="Center" Margin="10" Text="" VerticalAlignment="Top" Height="50" Width="230"/>
+            <Button Content="Connection" HorizontalAlignment="Center" Margin="10" VerticalAlignment="Top" Click="ConnectionAsync"/>
+            <HyperlinkButton Name="Link_profil" Content="Souhaitez vous créer votre profil ?" Margin="10,50,10,10" Click="HyperlinkButton_Click" Visibility="Collapsed"  FontSize="26.667"/>
+        </StackPanel>
     </Grid>
 </Page>
